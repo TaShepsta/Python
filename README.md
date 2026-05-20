@@ -32,7 +32,7 @@ The program uses a main menu to let users pick which tool to run.
 
 The project requires you to have the latest version of Python installed. 
 After installing the application and doing the necessary set-up you can clone or download this repository.
-Then open a terminal in the 'my-first-coding-project' folder  and run the progam.
+Then open a terminal in the desktop with the proper path of the program and run the code/program.
 
 ## Challenges faced
 
